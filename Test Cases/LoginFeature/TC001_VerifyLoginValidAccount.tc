@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_VerifyLoginValidAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94b6f4d5-3f47-4b3c-9ee3-aa2fc6ec7c91</testCaseGuid>
+</TestCaseEntity>
