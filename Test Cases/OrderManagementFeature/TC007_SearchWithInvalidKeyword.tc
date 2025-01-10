@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007_SearchWithInvalidKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d10a0ca-12e0-4849-83ae-aebca8a5f773</testCaseGuid>
+</TestCaseEntity>
