@@ -22,8 +22,8 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('http://localhost:5064/Identity/Account/Login')  
 
 // Login  
-WebUI.setText(findTestObject('null'), 'hueh30@gmail.com')  
-WebUI.setEncryptedText(findTestObject('null'), '5+xlL+YL/79ln+aPFCPk+A==')  
+WebUI.setText(findTestObject('Object Repository/LoginPage/txt_Email'), 'hueh30@gmail.com')  
+WebUI.setEncryptedText(findTestObject('Object Repository/LoginPage/txt_Password'), '5+xlL+YL/79ln+aPFCPk+A==')    
 WebUI.click(findTestObject('Object Repository/LoginPage/btn_Login'))  
 
 // Navigate to the order management page  

@@ -21,8 +21,8 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 WebUI.navigateToUrl('http://localhost:5064/Identity/Account/Login')
 
-WebUI.setText(findTestObject('null'), 'hah30@gmail.com')
-WebUI.setEncryptedText(findTestObject('null'), 'PHnpyS+JYZQ=')
+WebUI.setText(findTestObject('Object Repository/LoginPage/txt_Email'), 'hah30@gmail.com')
+WebUI.setEncryptedText(findTestObject('Object Repository/LoginPage/txt_Password'), 'PHnpyS+JYZQ=')
 WebUI.click(findTestObject('Object Repository/LoginPage/btn_Login'))
 
 WebUI.click(findTestObject('Object Repository/HomePage/lnk_ManageOrder'))
