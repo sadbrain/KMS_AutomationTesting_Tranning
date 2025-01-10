@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_FilterCompletedOrders</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>006063a2-de11-49f3-9698-86ad2a6ff697</testCaseGuid>
+</TestCaseEntity>

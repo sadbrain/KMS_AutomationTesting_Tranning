@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_SearchWithValidKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>633e70bf-2e45-4fec-9560-2d51e80c9ba7</testCaseGuid>
+</TestCaseEntity>

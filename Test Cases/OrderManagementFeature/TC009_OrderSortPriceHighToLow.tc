@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_OrderSortPriceHighToLow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5aeec28-c4c5-40e0-b3fc-cf08b87c3ce2</testCaseGuid>
+</TestCaseEntity>
