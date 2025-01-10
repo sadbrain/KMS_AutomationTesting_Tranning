@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://localhost:5064/Identity/Account/Login'</initValue>
+      <name>LOGIN</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

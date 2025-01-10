@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_QuantityCumulativeAddToCartSameProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d743bf6-90d7-456a-ae09-8ef893c0d479</testCaseGuid>
+</TestCaseEntity>

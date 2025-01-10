@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_VerifyUserInformationIsDisplayedCorrectly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59abc0bb-403b-4f0a-969d-80d1ef12d321</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_VerifyCompanyUserOrderSuccessfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f663c0d8-371a-43e1-80de-20a02669492b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_VerifyProductInformationIsDisplayedCorrectly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>acfb2a34-d34d-438f-8500-a7cd6834691f</testCaseGuid>
+</TestCaseEntity>

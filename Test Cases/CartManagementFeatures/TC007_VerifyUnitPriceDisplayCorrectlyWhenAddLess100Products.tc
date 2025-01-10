@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007_VerifyUnitPriceDisplayCorrectlyWhenAddLess100Products</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d979c01-c728-478b-9563-250a6effee2f</testCaseGuid>
+</TestCaseEntity>

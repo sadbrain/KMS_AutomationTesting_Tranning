@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_VerifyUnitPriceDisplayCorrectlyWhenAdd50Products</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdf15503-e393-49e8-8ec1-ca2bbe927964</testCaseGuid>
+</TestCaseEntity>
